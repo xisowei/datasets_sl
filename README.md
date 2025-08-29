@@ -1,5 +1,4 @@
-【数据集文档 | WPS云文档】 data<br>
-https://www.kdocs.cn/l/crRVAJIcWOZD<br>
+【数据集文档 | WPS云文档】可以直接访问：https://www.kdocs.cn/l/crRVAJIcWOZD<br>
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
