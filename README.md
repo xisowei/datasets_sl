@@ -1,5 +1,7 @@
+【数据集文档 | WPS云文档】 data<br>
+https://www.kdocs.cn/l/crRVAJIcWOZD<br>
 <table>
-<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>布匹缺陷数据集5085张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWWmZ1pZQ==">下载</a></td></tr>
 <tr><td>【目标检测】天空飞鸟数据集2692张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWWmZxyaA==">下载</a></td></tr>
