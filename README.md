@@ -2,6 +2,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>【目标检测】夜间道路监控视角拍摄车辆分类识别数据集616张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXk5ppZA==">下载</a></td></tr>
+<tr><td>【目标检测】水下垃圾数据集5127张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXk5lybQ==">下载</a></td></tr>
+<tr><td>【目标检测】水面漂浮垃圾检测数据集1462张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXk5lybA==">下载</a></td></tr>
+<tr><td>【目标检测】牛行为检测数据集8452张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXk5lyaw==">下载</a></td></tr>
+<tr><td>【目标检测】河道水面漂浮垃圾数据集12694张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXk5lyag==">下载</a></td></tr>
+<tr><td>【目标检测】海面垃圾数据集7747张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXk5lyaQ==">下载</a></td></tr>
+<tr><td>【目标检测】海底海胆海参扇贝海星数据集5457张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXk5lyaA==">下载</a></td></tr>
+<tr><td>【目标检测】道路监控视角拍摄车辆分类识别数据集4050张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXk5lyZw==">下载</a></td></tr>
+<tr><td>【目标检测】安全锥交通锥数据集5800张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXk5lyZg==">下载</a></td></tr>
+<tr><td>【目标检测】5种海洋鱼类数据集18767张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXk5lyZQ==">下载</a></td></tr>
 <tr><td>布匹缺陷数据集5085张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWWmZ1pZQ==">下载</a></td></tr>
 <tr><td>【目标检测】天空飞鸟数据集2692张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWWmZxyaA==">下载</a></td></tr>
 <tr><td>【目标检测】隧道墙壁裂纹检测数据集980张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWWmZxxaw==">下载</a></td></tr>
