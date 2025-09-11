@@ -2,6 +2,17 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>【目标检测】牙齿健康检测数据集4700张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59xag==">下载</a></td></tr>
+<tr><td>【目标检测】输电线异物数据集2739张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59xaA==">下载</a></td></tr>
+<tr><td>【目标检测】起重机挖掘机打桩机塔吊建筑树木等检测数据集19665张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59xZw==">下载</a></td></tr>
+<tr><td>【目标检测】辣椒成熟度数据集407张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59xZg==">下载</a></td></tr>
+<tr><td>【目标检测】口腔疾病数据集10000张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59xZQ==">下载</a></td></tr>
+<tr><td>【目标检测】鸡蛋数据集6554张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59xZA==">下载</a></td></tr>
+<tr><td>【目标检测】鸡蛋缺陷数据集3481张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59wbQ==">下载</a></td></tr>
+<tr><td>【目标检测】鸡蛋裂纹检测数据集2977张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59wbA==">下载</a></td></tr>
+<tr><td>【目标检测】鸡蛋裂缝数据集2895张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59waw==">下载</a></td></tr>
+<tr><td>【目标检测】火车轨道异物检测数据集504张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59wag==">下载</a></td></tr>
+<tr><td>【目标检测】变压油冷却器数据集297张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59vaw==">下载</a></td></tr>
 <tr><td>【目标检测】夜间道路监控视角拍摄车辆分类识别数据集616张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXk5ppZA==">下载</a></td></tr>
 <tr><td>【目标检测】水下垃圾数据集5127张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXk5lybQ==">下载</a></td></tr>
 <tr><td>【目标检测】水面漂浮垃圾检测数据集1462张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXk5lybA==">下载</a></td></tr>
