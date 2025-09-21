@@ -2,6 +2,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>眼镜数据集2049张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXmphwag==">下载</a></td></tr>
+<tr><td>墙面裂缝分割数据集4028张json格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWXmphwZg==">下载</a></td></tr>
+<tr><td>航拍建筑物分割数据集14300张json格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWXmphvbQ==">下载</a></td></tr>
+<tr><td>航拍建筑物分割数据集2850张json格式</td><td><a href="https://mbd.pub/o/bread/YZWXmphvaw==">下载</a></td></tr>
+<tr><td>【目标检测】桥梁护栏支座等裂纹锈蚀滑移数据集1194张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXmphvaA==">下载</a></td></tr>
+<tr><td>乒乓球数据集3485张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXmJ1wbA==">下载</a></td></tr>
+<tr><td>【目标检测】羽毛球缺陷数据集1600张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXmJ1waw==">下载</a></td></tr>
 <tr><td>【目标检测】牙齿健康检测数据集4700张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59xag==">下载</a></td></tr>
 <tr><td>【目标检测】输电线异物数据集2739张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59xaA==">下载</a></td></tr>
 <tr><td>【目标检测】起重机挖掘机打桩机塔吊建筑树木等检测数据集19665张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXl59xZw==">下载</a></td></tr>
