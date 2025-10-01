@@ -2,6 +2,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>足球数据集11957张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWYkplrZA==">下载</a></td></tr>
+<tr><td>雪碧可乐芬达检测数据集2228张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWYkplqbQ==">下载</a></td></tr>
+<tr><td>棉花病害数据集2303张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWYkplqaw==">下载</a></td></tr>
+<tr><td>橘子病害数据集5506张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWYkplqaQ==">下载</a></td></tr>
 <tr><td>眼镜数据集2049张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWXmphwag==">下载</a></td></tr>
 <tr><td>墙面裂缝分割数据集4028张json格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWXmphwZg==">下载</a></td></tr>
 <tr><td>航拍建筑物分割数据集14300张json格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWXmphvbQ==">下载</a></td></tr>
