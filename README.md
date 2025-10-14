@@ -2,6 +2,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>桥梁缺陷及墙面缺陷检测数据集23491张20类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlJtyZw==">下载</a></td></tr>
+<tr><td>轧钢表面缺陷数据集1799张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlJtyZA==">下载</a></td></tr>
+<tr><td>桥梁缺陷检测数据集6174张8类缺陷VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlJtwbA==">下载</a></td></tr>
+<tr><td>无人机手势控制数据集46176张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlJtxaw==">下载</a></td></tr>
+<tr><td>骰子点数识别数据集718张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlJtxaQ==">下载</a></td></tr>
+<tr><td>磁瓦表面缺陷数据集368张5类缺陷VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlJtwag==">下载</a></td></tr>
+<tr><td>7种海洋馆动物数据集635张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWYlJtwaQ==">下载</a></td></tr>
 <tr><td>足球数据集11957张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWYkplrZA==">下载</a></td></tr>
 <tr><td>雪碧可乐芬达检测数据集2228张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWYkplqbQ==">下载</a></td></tr>
 <tr><td>棉花病害数据集2303张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWYkplqaw==">下载</a></td></tr>
