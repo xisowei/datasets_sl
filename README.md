@@ -2,6 +2,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>易拉罐缺陷数据集6145张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlZttZg==">下载</a></td></tr>
+<tr><td>铁轨缺陷检测数据集3934张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlZttZQ==">下载</a></td></tr>
+<tr><td>绝缘子缺陷数据7653张7类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlZtsbQ==">下载</a></td></tr>
+<tr><td>建筑物缺陷数据集2414张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlZtsbA==">下载</a></td></tr>
+<tr><td>建筑物缺陷数据集2072张4类标签VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlZtsaQ==">下载</a></td></tr>
+<tr><td>钢材缺陷数据集2281张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlZtsZw==">下载</a></td></tr>
+<tr><td>薄膜缺陷数据集6115张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlZtsZg==">下载</a></td></tr>
+<tr><td>7类芯片缺陷检测数据集4531张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlZtqag==">下载</a></td></tr>
 <tr><td>桥梁缺陷及墙面缺陷检测数据集23491张20类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlJtyZw==">下载</a></td></tr>
 <tr><td>轧钢表面缺陷数据集1799张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlJtyZA==">下载</a></td></tr>
 <tr><td>桥梁缺陷检测数据集6174张8类缺陷VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlJtwbA==">下载</a></td></tr>
