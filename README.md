@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>红外火灾检测数据集2457张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlpZvZQ==">下载</a></td></tr>
+<tr><td>无人机航拍军事目标检测数据集5239张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlpZubQ==">下载</a></td></tr>
 <tr><td>易拉罐缺陷数据集6145张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlZttZg==">下载</a></td></tr>
 <tr><td>铁轨缺陷检测数据集3934张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlZttZQ==">下载</a></td></tr>
 <tr><td>绝缘子缺陷数据7653张7类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlZtsbQ==">下载</a></td></tr>
