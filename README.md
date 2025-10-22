@@ -2,6 +2,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>苹果及叶片病害检测数据集5612张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlphvaw==">下载</a></td></tr>
+<tr><td>无人机航拍多目标检测数据集6999张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlphvaQ==">下载</a></td></tr>
+<tr><td>坏苹果检测数据集696张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlphuaQ==">下载</a></td></tr>
 <tr><td>红外火灾检测数据集2457张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlpZvZQ==">下载</a></td></tr>
 <tr><td>无人机航拍军事目标检测数据集5239张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlpZubQ==">下载</a></td></tr>
 <tr><td>易拉罐缺陷数据集6145张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlZttZg==">下载</a></td></tr>
