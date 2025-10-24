@@ -2,6 +2,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>蔬菜病害检测数据集7958张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlp1pZQ==">下载</a></td></tr>
+<tr><td>牙科疾病数据集2759张</td><td><a href="https://mbd.pub/o/bread/YZWYlp1pZA==">下载</a></td></tr>
+<tr><td>棉花病虫害检测数据集6051张8类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlpxybQ==">下载</a></td></tr>
+<tr><td>水面漂浮塑料瓶数据集2478张</td><td><a href="https://mbd.pub/o/bread/YZWYlpxyaw==">下载</a></td></tr>
 <tr><td>苹果及叶片病害检测数据集5612张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlphvaw==">下载</a></td></tr>
 <tr><td>无人机航拍多目标检测数据集6999张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlphvaQ==">下载</a></td></tr>
 <tr><td>坏苹果检测数据集696张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlphuaQ==">下载</a></td></tr>
