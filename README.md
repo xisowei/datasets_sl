@@ -2,6 +2,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>仓鼠数据集1635张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYlp5waw==">下载</a></td></tr>
+<tr><td>仓鼠数据集443张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYlp5waQ==">下载</a></td></tr>
+<tr><td>无人机航拍地面水域小目标检测数据集9814张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYlp5wZg==">下载</a></td></tr>
+<tr><td>玉米生长阶段检测数据集1482张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYlp5vaw==">下载</a></td></tr>
+<tr><td>无人机航拍水域目标检测数据集7746张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYlp5vZg==">下载</a></td></tr>
+<tr><td>无人机航拍军事目标检测数据集9840张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlp5ubQ==">下载</a></td></tr>
+<tr><td>无人机航拍军事目标检测数据集8781张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlp5uaw==">下载</a></td></tr>
 <tr><td>蔬菜病害检测数据集7958张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlp1pZQ==">下载</a></td></tr>
 <tr><td>牙科疾病数据集2759张</td><td><a href="https://mbd.pub/o/bread/YZWYlp1pZA==">下载</a></td></tr>
 <tr><td>棉花病虫害检测数据集6051张8类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYlpxybQ==">下载</a></td></tr>
