@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>茶叶嫩芽检测数据集9641张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYl5dvag==">下载</a></td></tr>
 <tr><td>吸烟检测数据集（香烟点燃检测）3776张</td><td><a href="https://mbd.pub/o/bread/YZWYl5dvZg==">下载</a></td></tr>
 <tr><td>植物生长阶段检测数据集7264张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYl5dubQ==">下载</a></td></tr>
 <tr><td>昆虫分类检测数据集649张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYl5duaw==">下载</a></td></tr>
