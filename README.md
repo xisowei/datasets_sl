@@ -2,6 +2,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>吸烟检测数据集（香烟点燃检测）3776张</td><td><a href="https://mbd.pub/o/bread/YZWYl5dvZg==">下载</a></td></tr>
+<tr><td>植物生长阶段检测数据集7264张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYl5dubQ==">下载</a></td></tr>
+<tr><td>昆虫分类检测数据集649张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYl5duaw==">下载</a></td></tr>
+<tr><td>托盘数据集631张</td><td><a href="https://mbd.pub/o/bread/YZWYl5duaA==">下载</a></td></tr>
+<tr><td>口腔疾病检测数据集7066张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYl5dqaw==">下载</a></td></tr>
+<tr><td>香烟电子烟检测数据集8595张1类标签VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYl5ZyZg==">下载</a></td></tr>
+<tr><td>医疗一次性用品识别检测数据集2202张yolo</td><td><a href="https://mbd.pub/o/bread/YZWYl5ZxaA==">下载</a></td></tr>
 <tr><td>仓鼠数据集1635张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYlp5waw==">下载</a></td></tr>
 <tr><td>仓鼠数据集443张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYlp5waQ==">下载</a></td></tr>
 <tr><td>无人机航拍地面水域小目标检测数据集9814张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYlp5wZg==">下载</a></td></tr>
