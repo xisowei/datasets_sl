@@ -2,6 +2,19 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍垃圾堆数据集1979张voc+Yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYmptxaA==">下载</a></td></tr>
+<tr><td>无人机视角航拍地面多目标检测数据集8079张voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYmptxZw==">下载</a></td></tr>
+<tr><td>无人机航拍电力设备缺陷检测数据集8487张3类缺陷voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYmptxZQ==">下载</a></td></tr>
+<tr><td>飞行物检测数据集5263张voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYmptwbQ==">下载</a></td></tr>
+<tr><td>夜间拍摄小鹿数据集983张voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYmptwbA==">下载</a></td></tr>
+<tr><td>长颈鹿数据集897张voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYmptwaw==">下载</a></td></tr>
+<tr><td>航拍道路损坏和裂缝检测数据集1119张voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYmptwag==">下载</a></td></tr>
+<tr><td>鸡蛋裂纹脏污检测数据集1408张voc+yolo</td><td><a href="https://mbd.pub/o/bread/YZWYmptwaA==">下载</a></td></tr>
+<tr><td>易拉罐水中漏气气泡检测数据集3794张voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYmptwZg==">下载</a></td></tr>
+<tr><td>多类别塑料微粒检测数据集11997张voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYmptwZQ==">下载</a></td></tr>
+<tr><td>施工场地安全帽佩戴检测数据集5000张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYmptvag==">下载</a></td></tr>
+<tr><td>【动物数据集】牛目标检测数据集VOC+YOLO格式4016张1类别.zip</td><td><a href="https://mbd.pub/o/bread/Zp6Xlphw">下载</a></td></tr>
+<tr><td>【目标检测数据集】天空飞鸟检测数据集VOC+YOLO格式4990张.zip</td><td><a href="https://mbd.pub/o/bread/Zp6Wm5ls">下载</a></td></tr>
 <tr><td>烟草植株检测数据集6995张voc+yolo</td><td><a href="https://mbd.pub/o/bread/YZWYl5ppZw==">下载</a></td></tr>
 <tr><td>茶叶嫩芽检测数据集1733张voc+yolo格式(原图)</td><td><a href="https://mbd.pub/o/bread/YZWYl5ppZg==">下载</a></td></tr>
 <tr><td>茶叶嫩芽检测数据集1710张voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYl5lxaA==">下载</a></td></tr>
