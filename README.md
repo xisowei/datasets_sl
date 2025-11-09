@@ -2,6 +2,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>航拍交通目标检测数据集9809张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYm5ZwZg==">下载</a></td></tr>
+<tr><td>不同天气环境下人车检测数据集509张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYm5ZwZQ==">下载</a></td></tr>
+<tr><td>无人机航拍铁轨轨道上多目标检测数据集1100张voc+yolo</td><td><a href="https://mbd.pub/o/bread/YZWYm5ZwZA==">下载</a></td></tr>
+<tr><td>草坪检测数据集4111张voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYm5ZvbQ==">下载</a></td></tr>
+<tr><td>玻璃瓶数据集8978voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYm5Zvag==">下载</a></td></tr>
 <tr><td>无人机视角航拍垃圾堆数据集1979张voc+Yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYmptxaA==">下载</a></td></tr>
 <tr><td>无人机视角航拍地面多目标检测数据集8079张voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYmptxZw==">下载</a></td></tr>
 <tr><td>无人机航拍电力设备缺陷检测数据集8487张3类缺陷voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYmptxZQ==">下载</a></td></tr>
