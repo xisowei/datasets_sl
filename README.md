@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍羊数据集1717张voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYm5xvZQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍绝缘子缺陷检测数据集1595张3类标签voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYm5xubQ==">下载</a></td></tr>
 <tr><td>航拍交通目标检测数据集9809张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYm5ZwZg==">下载</a></td></tr>
 <tr><td>不同天气环境下人车检测数据集509张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWYm5ZwZQ==">下载</a></td></tr>
 <tr><td>无人机航拍铁轨轨道上多目标检测数据集1100张voc+yolo</td><td><a href="https://mbd.pub/o/bread/YZWYm5ZwZA==">下载</a></td></tr>
