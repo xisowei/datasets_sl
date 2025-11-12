@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角拍摄屋顶太阳能电池板数据集4514张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYm55xZQ==">下载</a></td></tr>
+<tr><td>小车违停检测数据集475张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYm55xZA==">下载</a></td></tr>
 <tr><td>无人机视角航拍羊数据集1717张voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYm5xvZQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍绝缘子缺陷检测数据集1595张3类标签voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYm5xubQ==">下载</a></td></tr>
 <tr><td>航拍交通目标检测数据集9809张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYm5ZwZg==">下载</a></td></tr>
