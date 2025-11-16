@@ -2,6 +2,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机航拍飞机船舶小车数据集1306张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZkp9xaw==">下载</a></td></tr>
+<tr><td>卫星拍摄地面水域检测数据集4868张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZkp9xZw==">下载</a></td></tr>
+<tr><td>眼睛内虹膜检测数据集1726张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZkp9waQ==">下载</a></td></tr>
+<tr><td>卫星拍摄野外火灾检测数据集8857张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZkp9wZA==">下载</a></td></tr>
+<tr><td>街景目标检测数据集4813张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZkp9ubA==">下载</a></td></tr>
+<tr><td>卫星拍摄地面电塔检测数据集1498张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZkp9uZw==">下载</a></td></tr>
+<tr><td>航拍地面多目标检测数据集1713张16类标签VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZkp9uZg==">下载</a></td></tr>
+<tr><td>12种动物数据集5527张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWZkp9taA==">下载</a></td></tr>
 <tr><td>无人机视角拍摄屋顶太阳能电池板数据集4514张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYm55xZQ==">下载</a></td></tr>
 <tr><td>小车违停检测数据集475张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWYm55xZA==">下载</a></td></tr>
 <tr><td>无人机视角航拍羊数据集1717张voc+yolo格式</td><td><a href="https://mbd.pub/o/bread/YZWYm5xvZQ==">下载</a></td></tr>
