@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>车辆占用应急车道检测数据集577张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZk5pxaw==">下载</a></td></tr>
 <tr><td>无人机航拍飞机船舶小车数据集1306张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZkp9xaw==">下载</a></td></tr>
 <tr><td>卫星拍摄地面水域检测数据集4868张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZkp9xZw==">下载</a></td></tr>
 <tr><td>眼睛内虹膜检测数据集1726张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZkp9waQ==">下载</a></td></tr>
