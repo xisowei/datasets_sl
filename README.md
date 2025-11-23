@@ -2,6 +2,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>下水井盖缺陷检测数据集2660张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZlptraQ==">下载</a></td></tr>
+<tr><td>蘑菇生长阶段数据集7259张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZlptrZw==">下载</a></td></tr>
+<tr><td>车辆品牌类型识别数据集2788张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZlptrZg==">下载</a></td></tr>
+<tr><td>水稻开花成熟生长阶段检测12985张VOC+YOLO（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWZlptrZQ==">下载</a></td></tr>
+<tr><td>无人机航拍船舶分类检测数据集1469张VOC+YOLO格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWZlptqaw==">下载</a></td></tr>
+<tr><td>道路缺陷检测数据集（裂缝坑洞）5503张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZlptqag==">下载</a></td></tr>
 <tr><td>车辆占用应急车道检测数据集577张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZk5pxaw==">下载</a></td></tr>
 <tr><td>无人机航拍飞机船舶小车数据集1306张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZkp9xaw==">下载</a></td></tr>
 <tr><td>卫星拍摄地面水域检测数据集4868张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZkp9xZw==">下载</a></td></tr>
