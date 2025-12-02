@@ -2,6 +2,21 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>HALCON24.11文件，目录替换DLL，替换即用</td><td><a href="https://mbd.pub/o/bread/YZWZmJdpbA==">下载</a></td></tr>
+<tr><td>车辆缺陷分割数据集4000张json格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJdpaw==">下载</a></td></tr>
+<tr><td>10种鲨鱼分类识检测数据集5034张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJdpaQ==">下载</a></td></tr>
+<tr><td>15种鲨鱼分类识检测数据集2722张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJdpZQ==">下载</a></td></tr>
+<tr><td>生活常见多物品检测数据集9761张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJdpZA==">下载</a></td></tr>
+<tr><td>固定视角拍摄公路车辆数据集5236张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJZybQ==">下载</a></td></tr>
+<tr><td>水面漂浮垃圾分类检测数据集5类7265张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJZybA==">下载</a></td></tr>
+<tr><td>车辆缺陷检测数据集4000张6类缺陷VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJZyag==">下载</a></td></tr>
+<tr><td>鲨鱼分类检测数据集5433张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJZyaQ==">下载</a></td></tr>
+<tr><td>鱼数据集5774张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJZyZw==">下载</a></td></tr>
+<tr><td>海豚数据集5697张VOC+YOLO格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWZmJZyZA==">下载</a></td></tr>
+<tr><td>【动物】熊数据集2983张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJZxbA==">下载</a></td></tr>
+<tr><td>13种动物数据集9800张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJZxaw==">下载</a></td></tr>
+<tr><td>15种家具检测数据集2943张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJZxZw==">下载</a></td></tr>
+<tr><td>15种家具分割数据集2943张json格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJZwZg==">下载</a></td></tr>
 <tr><td>下水井盖缺陷检测数据集2660张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZlptraQ==">下载</a></td></tr>
 <tr><td>蘑菇生长阶段数据集7259张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZlptrZw==">下载</a></td></tr>
 <tr><td>车辆品牌类型识别数据集2788张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZlptrZg==">下载</a></td></tr>
