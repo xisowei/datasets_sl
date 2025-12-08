@@ -2,6 +2,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>洋葱叶病害数据集2000张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmZpxZQ==">下载</a></td></tr>
+<tr><td>太阳能电池板缺陷数据集4621张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmZpxZA==">下载</a></td></tr>
+<tr><td>橡胶树叶片病害数据集6254张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmZpwbA==">下载</a></td></tr>
+<tr><td>大豆叶片病害数据集600张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmZpwZw==">下载</a></td></tr>
+<tr><td>航拍山体滑坡数据集3452张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmZpwZQ==">下载</a></td></tr>
+<tr><td>辣椒叶片病害数据集1997张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmZpvaw==">下载</a></td></tr>
+<tr><td>建筑缺陷数据集6808张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmZpubQ==">下载</a></td></tr>
+<tr><td>无人机数据集9994张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmZpubA==">下载</a></td></tr>
+<tr><td>南瓜叶片病害检测数据集1199张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmZpuZQ==">下载</a></td></tr>
+<tr><td>房屋坍塌检测数据集1972张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmZpuZA==">下载</a></td></tr>
 <tr><td>HALCON24.11文件，目录替换DLL，替换即用</td><td><a href="https://mbd.pub/o/bread/YZWZmJdpbA==">下载</a></td></tr>
 <tr><td>车辆缺陷分割数据集4000张json格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJdpaw==">下载</a></td></tr>
 <tr><td>10种鲨鱼分类识检测数据集5034张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmJdpaQ==">下载</a></td></tr>
