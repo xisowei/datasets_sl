@@ -2,6 +2,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>航拍水体污染检测数据集VOC+YOLO格式2999张5类别</td><td><a href="https://mbd.pub/o/bread/YZWak5dxZw==">下载</a></td></tr>
+<tr><td>火车轨道分割数据集23700张json格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWak5dxZQ==">下载</a></td></tr>
+<tr><td>火车轨道线检测数据集5928张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWak5dwag==">下载</a></td></tr>
+<tr><td>网球数据集3442张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWak5dvag==">下载</a></td></tr>
+<tr><td>人员数据集3717张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWak5dvZw==">下载</a></td></tr>
 <tr><td>洋葱叶病害数据集2000张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmZpxZQ==">下载</a></td></tr>
 <tr><td>太阳能电池板缺陷数据集4621张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmZpxZA==">下载</a></td></tr>
 <tr><td>橡胶树叶片病害数据集6254张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWZmZpwbA==">下载</a></td></tr>
