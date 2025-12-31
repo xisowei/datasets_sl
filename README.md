@@ -2,6 +2,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>车内视角红外道路目标检测数据集7544张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWalZ1saA==">下载</a></td></tr>
+<tr><td>沙堆数据集957张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWalZ1sZg==">下载</a></td></tr>
+<tr><td>沙堆混凝土护栏坑洞检测数据集3418张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWalZ1sZQ==">下载</a></td></tr>
+<tr><td>工地目标检测数据集999张13种类别VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWalZ1rbQ==">下载</a></td></tr>
+<tr><td>5种学生行为检测数据集2262张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWalZ1rbA==">下载</a></td></tr>
+<tr><td>牙齿拥挤数据集3206张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWalZ1rZw==">下载</a></td></tr>
+<tr><td>帐篷数据集4039张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWalZ1rZA==">下载</a></td></tr>
+<tr><td>航拍挖掘机搅拌车起重机推土机等工地机械数据集927张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWalZ1qbQ==">下载</a></td></tr>
+<tr><td>持刀检测数据集4920张VOC+YOLO（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWalZ1qag==">下载</a></td></tr>
 <tr><td>航拍水体污染检测数据集VOC+YOLO格式2999张5类别</td><td><a href="https://mbd.pub/o/bread/YZWak5dxZw==">下载</a></td></tr>
 <tr><td>火车轨道分割数据集23700张json格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWak5dxZQ==">下载</a></td></tr>
 <tr><td>火车轨道线检测数据集5928张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWak5dwag==">下载</a></td></tr>
