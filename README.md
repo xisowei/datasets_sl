@@ -2,6 +2,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机航拍电缆植被检测数据集6187张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWal5tpbA==">下载</a></td></tr>
+<tr><td>排水管道缺陷数据集4767张VOC_YOLO（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWal5tpaw==">下载</a></td></tr>
+<tr><td>床单污渍检测数据集3935张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWal5tpag==">下载</a></td></tr>
+<tr><td>芒果病害数据集6593张VOC+YOLO格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWal5tpaA==">下载</a></td></tr>
+<tr><td>建筑墙面缺陷检测数据集7374张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWal5tpZg==">下载</a></td></tr>
+<tr><td>道路油漆检测数据集687张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWal5tpZQ==">下载</a></td></tr>
 <tr><td>车内视角红外道路目标检测数据集7544张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWalZ1saA==">下载</a></td></tr>
 <tr><td>沙堆数据集957张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWalZ1sZg==">下载</a></td></tr>
 <tr><td>沙堆混凝土护栏坑洞检测数据集3418张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWalZ1sZQ==">下载</a></td></tr>
