@@ -2,6 +2,23 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>拖拉机数据集3786张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhvaQ==">下载</a></td></tr>
+<tr><td>拖拉机数据集2933张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhvZQ==">下载</a></td></tr>
+<tr><td>坦克数据集2221张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhvZA==">下载</a></td></tr>
+<tr><td>无人机航拍建筑植被道路数据集4081张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhubA==">下载</a></td></tr>
+<tr><td>5种粮食害虫数据集4493张VOC+YOLO格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWamZhuaw==">下载</a></td></tr>
+<tr><td>收割机数据集2713张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhuag==">下载</a></td></tr>
+<tr><td>无人机航拍山上人员数据集1040张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhuZw==">下载</a></td></tr>
+<tr><td>车辆及人数据集（汽车公交车收割机拖拉机卡车人）12819张</td><td><a href="https://mbd.pub/o/bread/YZWamZhuZg==">下载</a></td></tr>
+<tr><td>农业机械收割机拖拉机数据集6340张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhuZQ==">下载</a></td></tr>
+<tr><td>拖拉机数据集2000张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhuZA==">下载</a></td></tr>
+<tr><td>无人机航拍地面行人车辆数据集6990张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhtbQ==">下载</a></td></tr>
+<tr><td>无人机航拍地面人车动物数据集23381张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhtaw==">下载</a></td></tr>
+<tr><td>无人机航拍鲨鱼数据集3073张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhtag==">下载</a></td></tr>
+<tr><td>无人机航拍牛数据集1074张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhtaA==">下载</a></td></tr>
+<tr><td>无人机视角山林烟火检测数据集13521张VOC+YOLO（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWamZhtZw==">下载</a></td></tr>
+<tr><td>无人机拍摄沙滩垃圾分类识别数据集1148张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhtZg==">下载</a></td></tr>
+<tr><td>电力场景变电站设备及缺陷检测数据集8116张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWamZhtZA==">下载</a></td></tr>
 <tr><td>无人机航拍电缆植被检测数据集6187张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWal5tpbA==">下载</a></td></tr>
 <tr><td>排水管道缺陷数据集4767张VOC_YOLO（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWal5tpaw==">下载</a></td></tr>
 <tr><td>床单污渍检测数据集3935张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWal5tpag==">下载</a></td></tr>
