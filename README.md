@@ -2,6 +2,17 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>空中飞行物检测数据集2627张yolo数据集</td><td><a href="https://mbd.pub/o/bread/YZWamZ9ybA==">下载</a></td></tr>
+<tr><td>航拍摩托车数据集8409张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZ9yaw==">下载</a></td></tr>
+<tr><td></td><td><a href="https://mbd.pub/o/bread/YZWamZ9yag==">下载</a></td></tr>
+<tr><td>气球数据集4546张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZ9yaQ==">下载</a></td></tr>
+<tr><td>气球数据集2291张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZ9yZw==">下载</a></td></tr>
+<tr><td>气球数据集1136张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZ9yZg==">下载</a></td></tr>
+<tr><td>气球数据集1155张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZ9yZA==">下载</a></td></tr>
+<tr><td>空中飞行物检测数据集2895张yolo数据集</td><td><a href="https://mbd.pub/o/bread/YZWamZ9xbQ==">下载</a></td></tr>
+<tr><td>4种空中飞行物数据集3561张VOC+YOLO（热气球飞艇飞机直升机）</td><td><a href="https://mbd.pub/o/bread/YZWamZ9xbA==">下载</a></td></tr>
+<tr><td>5种空中飞行物数据集3936张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZ9xZg==">下载</a></td></tr>
+<tr><td>道路抛洒物检测数据集1650张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZ9vag==">下载</a></td></tr>
 <tr><td>拖拉机数据集3786张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhvaQ==">下载</a></td></tr>
 <tr><td>拖拉机数据集2933张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhvZQ==">下载</a></td></tr>
 <tr><td>坦克数据集2221张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZhvZA==">下载</a></td></tr>
