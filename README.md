@@ -4,7 +4,6 @@
 <tbody>
 <tr><td>空中飞行物检测数据集2627张yolo数据集</td><td><a href="https://mbd.pub/o/bread/YZWamZ9ybA==">下载</a></td></tr>
 <tr><td>航拍摩托车数据集8409张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZ9yaw==">下载</a></td></tr>
-<tr><td></td><td><a href="https://mbd.pub/o/bread/YZWamZ9yag==">下载</a></td></tr>
 <tr><td>气球数据集4546张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZ9yaQ==">下载</a></td></tr>
 <tr><td>气球数据集2291张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZ9yZw==">下载</a></td></tr>
 <tr><td>气球数据集1136张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZ9yZg==">下载</a></td></tr>
