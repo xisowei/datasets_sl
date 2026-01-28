@@ -2,6 +2,26 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>遛狗不牵绳数据集1047张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWam51vaA==">下载</a></td></tr>
+<tr><td>交通警察检测数据集4327张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWam51vZQ==">下载</a></td></tr>
+<tr><td>交警检测数据集1815张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWam51vZA==">下载</a></td></tr>
+<tr><td>民警检测数据集2105张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWam51ubA==">下载</a></td></tr>
+<tr><td>红外拍摄建筑缺陷数据集463张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWam51saw==">下载</a></td></tr>
+<tr><td>航拍船舶数据集914张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWam51sZw==">下载</a></td></tr>
+<tr><td>红外拍摄建筑缺陷数据集463张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWam5xpaA==">下载</a></td></tr>
+<tr><td>航拍船舶数据集914张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWam5xpZQ==">下载</a></td></tr>
+<tr><td>道路抛洒物数据集4521张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamp1saw==">下载</a></td></tr>
+<tr><td>草莓成熟未成熟检测数据集1735张 VOC+YOLo (已增强)</td><td><a href="https://mbd.pub/o/bread/YZWamptuZA==">下载</a></td></tr>
+<tr><td>菠萝数据集634张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWampttbA==">下载</a></td></tr>
+<tr><td>番茄开花果实成熟情况检测数据集8036张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWampttaw==">下载</a></td></tr>
+<tr><td>草莓成熟情况检测数据集1662张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWampttaQ==">下载</a></td></tr>
+<tr><td>草莓成熟度数据集2632张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWampttaA==">下载</a></td></tr>
+<tr><td>苹果成熟度数据集1158张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWampttZg==">下载</a></td></tr>
+<tr><td>芒果成熟度数据集2897张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWampttZA==">下载</a></td></tr>
+<tr><td>西瓜成熟检测数据集4406张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamptsbQ==">下载</a></td></tr>
+<tr><td>西瓜成熟检测数据集13350张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamptsbA==">下载</a></td></tr>
+<tr><td>葡萄园中葡萄数据集1076张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamptsag==">下载</a></td></tr>
+<tr><td>咖啡果实成熟度数据集2359张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamptsaA==">下载</a></td></tr>
 <tr><td>空中飞行物检测数据集2627张yolo数据集</td><td><a href="https://mbd.pub/o/bread/YZWamZ9ybA==">下载</a></td></tr>
 <tr><td>航拍摩托车数据集8409张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZ9yaw==">下载</a></td></tr>
 <tr><td>气球数据集4546张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamZ9yaQ==">下载</a></td></tr>
