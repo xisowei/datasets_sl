@@ -2,6 +2,28 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>仪表盘指针位置检测数据集9155张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmphubQ==">下载</a></td></tr>
+<tr><td>建筑蓝色天棚检测数据集1184张</td><td><a href="https://mbd.pub/o/bread/YZWbmpdtbA==">下载</a></td></tr>
+<tr><td>马行为检测数据集470张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmpdtag==">下载</a></td></tr>
+<tr><td>插座数据集821张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmpdtZA==">下载</a></td></tr>
+<tr><td>葡萄数据集1617张</td><td><a href="https://mbd.pub/o/bread/YZWbmpdsbA==">下载</a></td></tr>
+<tr><td>锥形桶数据集23826张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmpdsaw==">下载</a></td></tr>
+<tr><td>黑夜环境下多目标检测数据集7342张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmpdsZg==">下载</a></td></tr>
+<tr><td>【目标检测】羊脸耳口眼检测数据集4030张YOLO-VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWTmpZwZA==">下载</a></td></tr>
+<tr><td>50种蘑菇检测数据集12876张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmZxtaA==">下载</a></td></tr>
+<tr><td>21种蘑菇检测数据集4040张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmZxtZg==">下载</a></td></tr>
+<tr><td>水马破损检测数据集205张VOC+YOLO（注水隔离墩）</td><td><a href="https://mbd.pub/o/bread/YZWbmZxtZA==">下载</a></td></tr>
+<tr><td>猫品种检测数据集16723张24类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmZpqZg==">下载</a></td></tr>
+<tr><td>猫品种检测数据集2380张12类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmZpqZQ==">下载</a></td></tr>
+<tr><td>小猫行为检测数据集1465张5类行为VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmZpqZA==">下载</a></td></tr>
+<tr><td>玻璃瓶易拉罐数据集7942张2类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmZppaw==">下载</a></td></tr>
+<tr><td>坏灯泡检测数据集499张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmZppZg==">下载</a></td></tr>
+<tr><td>骑自行车数据集4663张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmZppZA==">下载</a></td></tr>
+<tr><td>无人机航拍道路异常检测数据集1274张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmZlyaw==">下载</a></td></tr>
+<tr><td>61种动物数据集22755张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmZlyaQ==">下载</a></td></tr>
+<tr><td>低空航拍路面裂缝类型检测数据集3391张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmZlyaA==">下载</a></td></tr>
+<tr><td>家居物品检测数据集5928张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmZlyZA==">下载</a></td></tr>
+<tr><td>森林中树木死亡检测数据集2833张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmZlxag==">下载</a></td></tr>
 <tr><td>遛狗不牵绳数据集1047张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWam51vaA==">下载</a></td></tr>
 <tr><td>交通警察检测数据集4327张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWam51vZQ==">下载</a></td></tr>
 <tr><td>交警检测数据集1815张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWam51vZA==">下载</a></td></tr>
