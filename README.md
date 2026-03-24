@@ -2,6 +2,33 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>【动物数据集】乌龟目标检测数据集VOC+YOLO格式949张1类别.zip</td><td><a href="https://mbd.pub/o/bread/Zp6Xlpds">下载</a></td></tr>
+<tr><td>跌倒检测数据集4250张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpxyZg==">下载</a></td></tr>
+<tr><td>胡萝卜数据集10798张VOC+YOLO格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWckpxxbA==">下载</a></td></tr>
+<tr><td>英雄联盟小地图英雄角色识别检测数据集9813张159类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpxxaQ==">下载</a></td></tr>
+<tr><td>路面交通标志检测数据集2924张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpxxZg==">下载</a></td></tr>
+<tr><td>室内跌倒检测数据集2298张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpxxZA==">下载</a></td></tr>
+<tr><td>牛行为检测数据集3810张yolo</td><td><a href="https://mbd.pub/o/bread/YZWckpxwaw==">下载</a></td></tr>
+<tr><td>82种草药和植物检测数据集6667张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpxwaA==">下载</a></td></tr>
+<tr><td>输电线路红外图像与可见光图像融合数据集含分割标签红外图像为CSV格式需转换可用图像配准</td><td><a href="https://mbd.pub/o/bread/YZWckppsbA==">下载</a></td></tr>
+<tr><td>未按规定停车检测数据集1130张yolo</td><td><a href="https://mbd.pub/o/bread/YZWckpdrZQ==">下载</a></td></tr>
+<tr><td>航拍植物病害异常检测数据集794张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpdrZA==">下载</a></td></tr>
+<tr><td>安全护栏缺陷检测数据集5178张1类标签VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpdqbA==">下载</a></td></tr>
+<tr><td>航拍滑坡泥石流检测数据集2262张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpdqaw==">下载</a></td></tr>
+<tr><td>航拍铁路障碍物数据集2041张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpdqag==">下载</a></td></tr>
+<tr><td>注射器数据集4235张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpdqZg==">下载</a></td></tr>
+<tr><td>人行为检测数据集6549张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpdqZQ==">下载</a></td></tr>
+<tr><td>水下鱼类检测数据集4505张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpdqZA==">下载</a></td></tr>
+<tr><td>航拍滑坡数据集4315张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpdpbQ==">下载</a></td></tr>
+<tr><td>电力巡检铁塔上鸟巢螺母缺失和锈蚀数据集540张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpdpaw==">下载</a></td></tr>
+<tr><td>树木倒塌滑坡道路塌方石头检测数据集16813张</td><td><a href="https://mbd.pub/o/bread/YZWckpdpag==">下载</a></td></tr>
+<tr><td>17种野生动物数据集9808张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpdpaQ==">下载</a></td></tr>
+<tr><td>飞行物检测数据集10240张VOC+YOLO格式（鸟飞机导弹固定翼无人机旋翼无人机）</td><td><a href="https://mbd.pub/o/bread/YZWckpdpaA==">下载</a></td></tr>
+<tr><td>航拍矿场滑坡数据集2254张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpdpZw==">下载</a></td></tr>
+<tr><td>航拍滑坡泥石流检测数据集5619张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpdpZg==">下载</a></td></tr>
+<tr><td>滑坡数据集6709张VOC+YOLO格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWckpZybA==">下载</a></td></tr>
+<tr><td>葡萄分割数据集1617张json格式</td><td><a href="https://mbd.pub/o/bread/YZWckpZyZw==">下载</a></td></tr>
+<tr><td>【目标检测】8类手术工具识别数据集1264张YOLO+VOC格式.zip</td><td><a href="https://mbd.pub/o/bread/Z56bmJhq">下载</a></td></tr>
 <tr><td>仪表盘指针位置检测数据集9155张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmphubQ==">下载</a></td></tr>
 <tr><td>建筑蓝色天棚检测数据集1184张</td><td><a href="https://mbd.pub/o/bread/YZWbmpdtbA==">下载</a></td></tr>
 <tr><td>马行为检测数据集470张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWbmpdtag==">下载</a></td></tr>
