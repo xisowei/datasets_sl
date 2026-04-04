@@ -2,6 +2,27 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>肺炎检测数据集3023张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWclZprbQ==">下载</a></td></tr>
+<tr><td>鹿数据集5982张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZprbA==">下载</a></td></tr>
+<tr><td>脑肿瘤检测数据集1099张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZpraw==">下载</a></td></tr>
+<tr><td>水中浮标检测数据集2015张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZprag==">下载</a></td></tr>
+<tr><td>水中浮标检测数据集14056张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZpraQ==">下载</a></td></tr>
+<tr><td>固定翼无人机旋转翼无人机数据集3847张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZpraA==">下载</a></td></tr>
+<tr><td>课堂学生行为检测数据集4065张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZlpag==">下载</a></td></tr>
+<tr><td>植物叶片病害检测数据集6588张3类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZdwZg==">下载</a></td></tr>
+<tr><td>芯片缺陷检测数据集3202张4类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZdwZQ==">下载</a></td></tr>
+<tr><td>军事目标检测数据集9758张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZdwZA==">下载</a></td></tr>
+<tr><td>茶叶芽生长阶段数据集752张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZdvaw==">下载</a></td></tr>
+<tr><td>课堂行为及状态检测数据集11697张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZdvaQ==">下载</a></td></tr>
+<tr><td>绵羊行为检测数据集2276张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWck5tsZQ==">下载</a></td></tr>
+<tr><td>婴儿表情检测数据集5591张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWck5trbQ==">下载</a></td></tr>
+<tr><td>病床病人跌倒危险行为检测数据集1573张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWck5traw==">下载</a></td></tr>
+<tr><td>鹌鹑行为检测数据集965张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWck5trag==">下载</a></td></tr>
+<tr><td>跌倒检测数据集7897张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWck5trZw==">下载</a></td></tr>
+<tr><td>蓝莓成熟度检测数据集1385张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWck5tqbA==">下载</a></td></tr>
+<tr><td>蓝莓成熟度检测数据集9115张VOC+YOLO格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWck5tqag==">下载</a></td></tr>
+<tr><td>钓鱼检测数据集4893张VOC+YOLO格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWck5tqaQ==">下载</a></td></tr>
+<tr><td>罂粟检测数据集1390张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWck5tqaA==">下载</a></td></tr>
 <tr><td>【动物数据集】乌龟目标检测数据集VOC+YOLO格式949张1类别.zip</td><td><a href="https://mbd.pub/o/bread/Zp6Xlpds">下载</a></td></tr>
 <tr><td>跌倒检测数据集4250张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpxyZg==">下载</a></td></tr>
 <tr><td>胡萝卜数据集10798张VOC+YOLO格式（已增强）</td><td><a href="https://mbd.pub/o/bread/YZWckpxxbA==">下载</a></td></tr>
