@@ -2,6 +2,37 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>洗手池检测数据集4389张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWcl5xyaQ==">下载</a></td></tr>
+<tr><td>厨房洗手池水槽检测数据集1313张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWcl5xyaA==">下载</a></td></tr>
+<tr><td>室内家具等设施检测数据集4127张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWcl5xxbA==">下载</a></td></tr>
+<tr><td>红外液体泄漏检测数据集2474张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWcl5xxaA==">下载</a></td></tr>
+<tr><td>管道漏水检测数据集2727张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWcl5xxZw==">下载</a></td></tr>
+<tr><td>烟火明亮浓度检测数据集4442张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWcl5xxZg==">下载</a></td></tr>
+<tr><td>罐头瓶缺陷检测数据集610张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWcl5xxZQ==">下载</a></td></tr>
+<tr><td>传送带缺陷检测数据集8205张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWcl5xxZA==">下载</a></td></tr>
+<tr><td>易拉罐瓶盖缺陷检测数据集854张</td><td><a href="https://mbd.pub/o/bread/YZWcl5xwbQ==">下载</a></td></tr>
+<tr><td>矿泉水瓶盖缺陷检测数据集8524张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWcl5xwag==">下载</a></td></tr>
+<tr><td>高空航拍云雾气下车辆数据集5027张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWcl5xwZw==">下载</a></td></tr>
+<tr><td>道路抛洒物数据集4521张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWamp1saw==">下载</a></td></tr>
+<tr><td>吸烟检测数据集7071张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWcl5ZtZQ==">下载</a></td></tr>
+<tr><td>传送带撕裂检测数据集1263张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWcl5ZtZA==">下载</a></td></tr>
+<tr><td>固体废弃物检测数据集6494张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWcl5ZsbA==">下载</a></td></tr>
+<tr><td>建筑废料检测数据集1761张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWcl5Zsaw==">下载</a></td></tr>
+<tr><td>【yolo数据集】路面坑洞数据集yolo-voc-664张.zip</td><td><a href="https://mbd.pub/o/bread/Z5Wakppx">下载</a></td></tr>
+<tr><td>航拍滑坡泥石流检测数据集2262张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWckpdqaw==">下载</a></td></tr>
+<tr><td>【目标检测】天空飞鸟数据集2692张YOLO+VOC格式</td><td><a href="https://mbd.pub/o/bread/YZWWmZxyaA==">下载</a></td></tr>
+<tr><td>鸡蛋受精检测数据集4401张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclpdqZQ==">下载</a></td></tr>
+<tr><td>电动汽车充电口类型检测数据集4257张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclpdpbQ==">下载</a></td></tr>
+<tr><td>自动扶梯乘客站立状态检测数据集5375张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWclpdpaw==">下载</a></td></tr>
+<tr><td>城市基础设施健康状态检测数据集8599张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWclpdpaQ==">下载</a></td></tr>
+<tr><td>睡岗检测数据集3853张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclpdpaA==">下载</a></td></tr>
+<tr><td>芒果病害检测数据集1989张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclpZwZw==">下载</a></td></tr>
+<tr><td>医学图像分类与诊断数据集5040张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWclZ9rZw==">下载</a></td></tr>
+<tr><td>传送带上锚杆和煤块检测数据集10402张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZ9rZQ==">下载</a></td></tr>
+<tr><td>工业危险液体数据集3341张8类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZ9rZA==">下载</a></td></tr>
+<tr><td>瓷砖缺陷检测数据集2238张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZ9qag==">下载</a></td></tr>
+<tr><td>水母数据集867张6类VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZ9qZw==">下载</a></td></tr>
+<tr><td>2种内镜检查息肉数据集9248张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWclZ9qZQ==">下载</a></td></tr>
 <tr><td>肺炎检测数据集3023张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZWclZprbQ==">下载</a></td></tr>
 <tr><td>鹿数据集5982张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZprbA==">下载</a></td></tr>
 <tr><td>脑肿瘤检测数据集1099张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZWclZpraw==">下载</a></td></tr>
