@@ -2,6 +2,45 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>城镇基础设备缺陷检测数据集8887张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZhpaQ==">下载</a></td></tr>
+<tr><td>电线杆损坏检测数据集2904张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZhpaA==">下载</a></td></tr>
+<tr><td>无人机视角航拍森林裸露林冠空隙数据集（裸土数据集）3346张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZaUlZhpZg==">下载</a></td></tr>
+<tr><td>无人机视角航拍路面受损检测数据集1282张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZhpZQ==">下载</a></td></tr>
+<tr><td>边坡排水沟堵塞数据集1488张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZhpZA==">下载</a></td></tr>
+<tr><td>智慧工地工程车重型设备检测数据集9210张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZdybQ==">下载</a></td></tr>
+<tr><td>摄像头视角工程车重型机械数据集16985张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZdyag==">下载</a></td></tr>
+<tr><td>工地工程车工程机械数据集3189张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZdyZw==">下载</a></td></tr>
+<tr><td>工程车检测数据集4572张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZdyZg==">下载</a></td></tr>
+<tr><td>4种工程车数据集6832张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZdyZA==">下载</a></td></tr>
+<tr><td>无人机视角航拍挖掘机数据集3861张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZdxbQ==">下载</a></td></tr>
+<tr><td>航拍3种工程车数据集1040张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZdxaw==">下载</a></td></tr>
+<tr><td>无人机视角航拍帐篷蒙古包数据集2054张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZdxag==">下载</a></td></tr>
+<tr><td>无人机航拍桥梁数据集1497张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZdxaQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍道路抛洒物数据集2804张VOC+YOLO格式（图片合成）</td><td><a href="https://mbd.pub/o/bread/YZaUlZdxaA==">下载</a></td></tr>
+<tr><td>航拍船艇浮标游泳者数据集9984张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZdxZw==">下载</a></td></tr>
+<tr><td>航拍船数据集6135张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZdxZQ==">下载</a></td></tr>
+<tr><td>坦克数据集11613张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZdvbA==">下载</a></td></tr>
+<tr><td>集装箱叉车人员箱子检测数据集5854张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9xZQ==">下载</a></td></tr>
+<tr><td>智慧城市街道环境城市市容巡检数据集2255张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaTk59raA==">下载</a></td></tr>
+<tr><td>边坡排水沟堵塞数据集1488张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlJlsbQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍道路抛洒物数据集2804张VOC+YOLO格式（图片合成）</td><td><a href="https://mbd.pub/o/bread/YZaUlJlsbA==">下载</a></td></tr>
+<tr><td>【数据集】医学常见9种皮肤疾病检测数据集11294张YOLO+VOC格式（已增强）.zip</td><td><a href="https://mbd.pub/o/bread/Z5yalJhq">下载</a></td></tr>
+<tr><td>Synapse腹部CT多器官分割数据集png图片+掩码图片+颜色映射表</td><td><a href="https://mbd.pub/o/bread/YZaUkptsZQ==">下载</a></td></tr>
+<tr><td>指纹检测数据集1294张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUkptsZA==">下载</a></td></tr>
+<tr><td>海洋塑料垃圾检测数据集6320张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUkptrbQ==">下载</a></td></tr>
+<tr><td>农作物病害检测数据集5751张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUkptraw==">下载</a></td></tr>
+<tr><td>无人机航拍农作物倒伏分割数据集1290张json格式</td><td><a href="https://mbd.pub/o/bread/YZaUkptrag==">下载</a></td></tr>
+<tr><td>桥梁缺陷检测数据集3132张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUkptraQ==">下载</a></td></tr>
+<tr><td>高空航拍地面建筑物数据集7682张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUkptraA==">下载</a></td></tr>
+<tr><td>建筑外墙面缺陷检测数据集5737张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUkptrZg==">下载</a></td></tr>
+<tr><td>建筑立面桥梁表面路面缺陷检测数据集57587张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUkptqaQ==">下载</a></td></tr>
+<tr><td>无人机视角电力巡检线路设备检测数据集7933张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUkptpZw==">下载</a></td></tr>
+<tr><td>航拍房顶缺陷数据集3354张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUkptpZQ==">下载</a></td></tr>
+<tr><td>道路安全锥交通锥检测数据集7091张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUkppyag==">下载</a></td></tr>
+<tr><td>道路安全锥交通锥检测数据集9454张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUkppyaA==">下载</a></td></tr>
+<tr><td>输电线异物检测数据集725张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUkppxag==">下载</a></td></tr>
+<tr><td>小目标 船舶检测数据集9041张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUkppsaQ==">下载</a></td></tr>
+<tr><td>道路抛洒物数据集4521张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaTm5pwaA==">下载</a></td></tr>
 <tr><td>5种武器数据集28260张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaTmJtqZg==">下载</a></td></tr>
 <tr><td>电力电网设施检测数据集3199张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaTmJtqZQ==">下载</a></td></tr>
 <tr><td>茶叶病害检测数据集9591张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaTmJtpbQ==">下载</a></td></tr>
