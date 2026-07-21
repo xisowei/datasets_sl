@@ -2,6 +2,20 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>桑蚕健康状态检测数据集10197张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZppZw==">下载</a></td></tr>
+<tr><td>纸箱数据集8913张VPOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZppZQ==">下载</a></td></tr>
+<tr><td>飞机缺陷检测数据集32158张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZaUlZppZA==">下载</a></td></tr>
+<tr><td>墙壁上植物检测数据集3454张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZlybQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍输电线植被覆盖检测数据集6953张</td><td><a href="https://mbd.pub/o/bread/YZaUlZlybA==">下载</a></td></tr>
+<tr><td>航拍可见光与红外屋顶缺陷数据集12275张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZlyag==">下载</a></td></tr>
+<tr><td>隧道墙壁缺陷检测数据集（墙壁裂缝渗水剥落）3231张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZaUlZlyaQ==">下载</a></td></tr>
+<tr><td>帐篷数据集2282张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZaUlZlyaA==">下载</a></td></tr>
+<tr><td>靶子上弹孔检测数据集9856张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZlyZQ==">下载</a></td></tr>
+<tr><td>火星火花检测数据集3777张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZlyZA==">下载</a></td></tr>
+<tr><td>路缘检测数据集1404张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZlxbQ==">下载</a></td></tr>
+<tr><td>红外拍摄人员数据集19863张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZlxbA==">下载</a></td></tr>
+<tr><td>铁路轨道鱼尾板缺陷数据集1069张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZlxaw==">下载</a></td></tr>
+<tr><td>地面水渍检测数据集847张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZaUlZlxaQ==">下载</a></td></tr>
 <tr><td>城镇基础设备缺陷检测数据集8887张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZhpaQ==">下载</a></td></tr>
 <tr><td>电线杆损坏检测数据集2904张VOC+YOLO格式</td><td><a href="https://mbd.pub/o/bread/YZaUlZhpaA==">下载</a></td></tr>
 <tr><td>无人机视角航拍森林裸露林冠空隙数据集（裸土数据集）3346张VOC+YOLO</td><td><a href="https://mbd.pub/o/bread/YZaUlZhpZg==">下载</a></td></tr>
